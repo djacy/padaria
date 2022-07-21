@@ -18,6 +18,43 @@ a {
     margin: 0 10px;
     color: #542f0c;
 }
+.botaosobre {
+    margin: 20px;
+    font-size: 15px;
+    border-radius: 10px;
+    padding: 10px;
+    width:33%;
+    
+}
+.botaosobre:hover {
+    
+    background-color: #eea74a; /* Green */
+    color: white;
+}
+.botaoprodutos {
+    margin: 20px;
+    font-size: 15px;
+    border-radius: 10px;
+    padding: 10px;
+    width:33%;
+
+}
+.botaoprodutos:hover{
+    background-color: #eea74a; /* Green */
+    color: white;
+}
+.botaocontato{
+    margin: 20px;
+    font-size: 15px;
+    border-radius: 10px;
+    padding: 10px;
+    width:33%;
+}
+.botaocontato:hover{
+    background-color: #eea74a; /* Green */
+    color: white;
+}
+
 
 h1 {
     font-size: 28px;
